@@ -1,0 +1,25 @@
+{
+  "total": 16708,
+  "platforms": {
+    "hackerone": 12934,
+    "unknown": 2130,
+    "bugcrowd": 1056,
+    "intigriti": 36,
+    "yeswehack": 30,
+    "penligent": 5,
+    "medium": 350,
+    "shadowhackr": 2,
+    "arabic_other": 5,
+    "tekingame": 3,
+    "linkedin": 7,
+    "other": 2,
+    "infosecwriteups": 31,
+    "github_io": 20,
+    "dev.to": 41,
+    "hashnode": 27,
+    "portswigger/infosec": 18,
+    "github": 7,
+    "mixed": 4
+  },
+  "note": "Batches 19-22 merged. Auth bypass, SSRF cloud, OAuth ATO, race/logic, SQLi, Hashnode, Dev.to, InfoSecWriteups."
+}
