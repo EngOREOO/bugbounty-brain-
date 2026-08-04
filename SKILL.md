@@ -1267,3 +1267,16 @@ def smuggle_cl_te(host, port=443, tls=True):
 | XSS (Stored) | $500 | $5,000 |
 | CSRF | $300 | $3,000 |
 | Open Redirect | $100 | $1,000 |
+
+---
+
+## Live X/Twitter Intel (X_INTEL.md)
+
+`X_INTEL.md` is a living companion file distilled from a curated bug bounty X feed (@xxx_toxic_off's retweet curation, 761 posts analyzed, harvested 2026-08-05). Consult it for:
+- **Fresh tooling** (32 repos) — new scanners, relay tools, AI-assisted hunting frameworks
+- **Recent bounty writeups** (25) with amounts and links — what is paying right now
+- **Field techniques** (35) — payloads and methodologies shared by active hunters
+- **CVE watch** (31 entries) — fresh PoCs worth testing before programs patch
+- **Accounts to follow** — the highest-signal intel sources
+
+Use it to prioritize: vuln classes appearing repeatedly in the feed (XSS/WAF bypass, SSRF chains, fresh CVE PoCs) are what triagers are seeing — either hunt them fast on freshly-patched targets or pivot to the less-crowded classes.
