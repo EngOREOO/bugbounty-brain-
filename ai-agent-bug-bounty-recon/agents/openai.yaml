@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Agent Bug Bounty Recon"
+  short_description: "AI-agent bug bounty recon with skill files"
+  default_prompt: "Use $ai-agent-bug-bounty-recon to run an AI CLI agent with recon skills against an authorized target"
