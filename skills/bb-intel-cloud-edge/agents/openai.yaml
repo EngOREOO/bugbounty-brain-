@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Intel Cloud Edge"
+  short_description: "Cloud, edge, cache, and file exploitation techniques"
+  default_prompt: "Use bb-intel-cloud-edge when hunting cache poisoning, WAF bypass, SSRF, origin exposure, and cloud storage misconfigurations on an authorized bug bounty target"

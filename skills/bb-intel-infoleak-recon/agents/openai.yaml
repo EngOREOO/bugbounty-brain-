@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Intel Infoleak Recon"
+  short_description: "Info disclosure and recon techniques from real writeups"
+  default_prompt: "Use $bb-intel-infoleak-recon when hunting information disclosure, exposed services, and auth enumeration on an authorized bug bounty target"

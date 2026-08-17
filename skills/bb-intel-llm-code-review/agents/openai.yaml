@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Intel Llm Code Review"
+  short_description: "LLM-assisted secure code review for vuln hunting"
+  default_prompt: "Use bb-intel-llm-code-review when hunting injection, authz bypass, second-order and daemon-worker vulns on an authorized bug bounty target"

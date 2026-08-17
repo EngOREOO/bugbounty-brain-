@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Intel Xss Chains"
+  short_description: "XSS discovery, WAF bypass, and XSS-to-ATO chain techniques"
+  default_prompt: "Use bb-intel-xss-chains when hunting XSS, WAF bypass, and XSS-to-ATO chains on an authorized bug bounty target"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Intel Idor Logic"
+  short_description: "IDOR, mass assignment, and business-logic exploitation"
+  default_prompt: "Use $bb-intel-idor-logic when hunting IDOR, mass assignment, and business-logic flaws on an authorized bug bounty target"

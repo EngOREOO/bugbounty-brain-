@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Intel Auth Ato"
+  short_description: "Auth bypass and ATO techniques from real bug bounty writeups"
+  default_prompt: "Use bb-intel-auth-ato when hunting auth bypass and account takeover on an authorized bug bounty target"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bb Intel Rce Sqli"
+  short_description: "RCE, SQLi, and CVE exploitation chains from real writeups"
+  default_prompt: "Use bb-intel-rce-sqli when hunting RCE, SQLi, and CVE exploit chains on an authorized bug bounty target"
