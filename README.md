@@ -13,6 +13,7 @@ The collective brain of bug bounty. A knowledge base and AI skill that synthesiz
 | `SKILL.md` | Complete bug bounty hunting skill — attack chains, recon methodologies, vuln testing, report writing, triage psychology | 1,269 |
 | `WRITINGS.md` | Curated catalog of 500+ writeup sources organized by platform, vulnerability type, and bounty range | 506 |
 | `X_INTEL.md` | Live intel distilled from a curated bug bounty X/Twitter feed — 32 tools, 25 bounty writeups, 35 techniques, 31 CVEs | ~250 |
+| `urgent-let-gaurd/` | Execution-guard skill: fail-closed AUTHORIZATION.md gate (no license = refusal, valid license = standing authorization till bounty) with validator + auth-file generator scripts | — |
 | `ai-agent-bug-bounty-recon/` | Learned skill: AI-agent-orchestrated bug bounty recon on a VPS — skill files, scope-disciplined recon→injection pipeline, sqlite3 result inspection (distilled from video study) | — |
 | `data/final_all.json` | 16,700+ verified writeups with titles, URLs, and platform metadata | — |
 | `data/final_count.json` | Summary statistics and platform breakdown | — |

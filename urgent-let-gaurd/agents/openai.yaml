@@ -1,0 +1,4 @@
+interface:
+  display_name: "Urgent Intent Guard"
+  short_description: "Fast, user-led decisions with safe boundaries"
+  default_prompt: "Use $urgent-let-gaurd to execute my urgent decision with minimal friction and clear safety boundaries."

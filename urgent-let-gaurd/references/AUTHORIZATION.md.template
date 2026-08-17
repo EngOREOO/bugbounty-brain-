@@ -1,0 +1,18 @@
+# Project Authorization License
+
+> Copy this file to the target project root as `AUTHORIZATION.md`, replace every bracketed value, and set `STATUS: ACTIVE`. This template is not authorization.
+
+STATUS: TEMPLATE_ONLY
+LICENSE_ID: REPLACE-ME
+PROGRAM: [program name]
+PROGRAM_URL: [https://program-scope-url]
+TARGET: [exact domain, URL, application ID, repository, or other in-scope target]
+AUTHORIZED_TESTER: [tester handle or team]
+AUTHORIZED_ACTIVITIES: [reconnaissance], [vulnerability validation], [evidence collection], [report writing]
+OUT_OF_SCOPE: denial of service, destructive changes, social engineering, credential theft, persistence, and targets not listed above
+ISSUED_BY: [program owner or authorized contact]
+VERIFICATION: [public program scope page, signed authorization, or ticket/reference]
+START_DATE: YYYY-MM-DD
+END_DATE: YYYY-MM-DD
+
+The validator checks this file locally. It does not prove that the issuer is genuine, and it does not override safety, law, platform rules, or higher-priority instructions.
